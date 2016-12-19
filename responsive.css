@@ -1,0 +1,16 @@
+@media screen and (max-width: 768px)
+{
+  nav ul li
+  {
+    margin: 6px
+  }
+#s5 form
+{
+  width: 90%;
+}
+#contenido_perfil, #contenido_experiencia
+{
+  display:block;
+}
+
+}
